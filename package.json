@@ -1,0 +1,17 @@
+{
+  "name": "tradfri",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/node-tradfri",
+  "os": ["darwin"],
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "execa": "^0.8.0",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
